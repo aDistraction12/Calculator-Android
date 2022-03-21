@@ -1,4 +1,4 @@
-# Calculator-Android-
+# Calculator-Android
 
 I have used Two layouts to build the UI here.
 1. LinearLayout - To build the TextArea
